@@ -9,5 +9,7 @@ Next, download the installer of your choice - `.msi` is recommended. From there,
 **This program will trigger Windows Defender's Smartscreen due to being an unsigned application!**
 
 ## Changelog
+### v0.1.3
+- [build] Corrected updater endpoint
 ### v0.1.2
 - [bugfix] Fixed load on every page change
