@@ -19,7 +19,7 @@ From there, follow the instructions from the wizard.
 **Please not that this program will trigger Windows Defender's Smartscreen due to being an unsigned application!**
 
 ## Changelog
-### v1.0.0-alpha.1
+### v1.0.0
 - [feature] Key validation and macro data distribution
 ### v0.1.4
 - [feature] Support for single-shot weapons
