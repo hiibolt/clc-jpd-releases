@@ -9,6 +9,8 @@ Next, download the installer of your choice - `.msi` is recommended. From there,
 **This program will trigger Windows Defender's Smartscreen due to being an unsigned application!**
 
 ## Changelog
+### v1.0.0-alpha.1
+- [feature] Key validation and macro data distribution
 ### v0.1.4
 - [feature] Support for single-shot weapons
 - [feature] Support for blank weapons
