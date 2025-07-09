@@ -10,7 +10,7 @@ On the right panel of this page, click the `Releases` page:
 
 <img src="https://github.com/user-attachments/assets/e6b93b95-2432-4639-b67f-01c3c07a581c" width=275>
 
-Next, download the installer of your choice `.msi` is recommended:
+Next, download the installer of your choice (`.msi` is recommended):
 
 <img src="https://github.com/user-attachments/assets/0951f95a-3fbf-43b2-8177-a9ef62358fc1">
 
