@@ -19,6 +19,10 @@ From there, follow the instructions from the wizard.
 **Please not that this program will trigger Windows Defender's Smartscreen due to being an unsigned application!**
 
 ## Changelog
+### v1.1.0
+- [feature] Per-operator saved configuration
+- [feature] Auto-updates for future new operators
+- [feature] Seperate ACOG multiplier
 ### v1.0.1
 - [bugfix] Changed configuration directory to %localappdata%
 ### v1.0.0
