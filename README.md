@@ -19,6 +19,8 @@ From there, follow the instructions from the wizard.
 **Please not that this program will trigger Windows Defender's Smartscreen due to being an unsigned application!**
 
 ## Changelog
+### v1.3.0
+- [feature] Ability to swap weapons using scroll wheel
 ### v1.2.0
 - [feature] Include all primaries/secondaries as selectable options
 - [feature] Ability to reset configs to our provided defaults
