@@ -19,6 +19,12 @@ From there, follow the instructions from the wizard.
 **Please not that this program will trigger Windows Defender's Smartscreen due to being an unsigned application!**
 
 ## Changelog
+### v1.2.0
+- [feature] Include all primaries/secondaries as selectable options
+- [feature] Ability to reset configs to our provided defaults
+- [feature] Ability to disable recoil control on all weapons
+- [feature] Mathematic trigger cap on single-fire so you can't shoot yourself in the foot trying to spam fire
+- [feature] Keybinds to swap categories and operators without tabbing in/out
 ### v1.1.0
 - [feature] Per-operator saved configuration
 - [feature] Auto-updates for future new operators
