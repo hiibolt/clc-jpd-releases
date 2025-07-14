@@ -19,6 +19,10 @@ From there, follow the instructions from the wizard.
 **Please not that this program will trigger Windows Defender's Smartscreen due to being an unsigned application!**
 
 ## Changelog
+### v1.3.1
+- [feature] Safeguards to prevent swapping to secondary on shield operators
+- [feature] Improved error handling for unknown weapons
+- [bugfix] Multiple game copies showing for a non-valid key state
 ### v1.3.0
 - [feature] Ability to swap weapons using scroll wheel
 ### v1.2.0
