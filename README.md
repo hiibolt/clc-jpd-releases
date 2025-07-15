@@ -19,6 +19,8 @@ From there, follow the instructions from the wizard.
 **Please not that this program will trigger Windows Defender's Smartscreen due to being an unsigned application!**
 
 ## Changelog
+### v1.5.0
+- [style] Drastically improved visuals across the entire application
 ### v1.4.2
 - [style] Matched update dialog coloring to global accent
 ### v1.4.1
