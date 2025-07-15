@@ -19,6 +19,8 @@ From there, follow the instructions from the wizard.
 **Please not that this program will trigger Windows Defender's Smartscreen due to being an unsigned application!**
 
 ## Changelog
+### v1.4.1
+- [feature] Multiple stylistic changes
 ### v1.4.0
 - [feature] Ability to enable/disable weapon swap on scroll
 - [feature] User prompt before updating
