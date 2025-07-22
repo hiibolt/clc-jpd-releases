@@ -19,6 +19,8 @@ From there, follow the instructions from the wizard.
 **Please not that this program will trigger Windows Defender's Smartscreen due to being an unsigned application!**
 
 ## Changelog
+### v1.5.1
+- [infra] Updated backend configuration to support future updates 
 ### v1.5.0
 - [style] Drastically improved visuals across the entire application
 ### v1.4.2
