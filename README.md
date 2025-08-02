@@ -19,6 +19,9 @@ From there, follow the instructions from the wizard.
 **Please not that this program will trigger Windows Defender's Smartscreen due to being an unsigned application!**
 
 ## Changelog
+### v1.5.4
+- [bugfix] Fixed configs being overwritten with a new key
+- [bugfix] Fixed server being down showing unentered key
 ### v1.5.3
 - [bugfix] Fixed "`set_weapon_config` does not exist" error
 ### v1.5.2
